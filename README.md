@@ -1,4 +1,4 @@
-## Hi, I'm Hiruna (aka Helix)
+## Hi, I'm Hiruna (HeliX)
 
 I am a Mechanical Engineering student at Politecnico di Torino with a strong passion for DIY electronics hardware hacking and app development. I enjoy solving inconviniences in my own way.
 ### What I Do
