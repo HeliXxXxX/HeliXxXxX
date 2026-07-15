@@ -10,7 +10,12 @@
         TYPING ANIMATION
      ╚═══════════════════════════════════════╝ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F5F5F5&center=true&vCenter=true&width=600&lines=Mechanical+Engineer+%40+PoliTo;Hardware+Hacker+%26+Maker;Android+App+Developer;I+solve+inconveniences+my+own+way.)](https://git.io/typing-svg)
+<div align="center">
+
+<!-- Snake animation. Requires the GitHub Action set up (see setup notes). -->
+<img src="https://raw.githubusercontent.com/HeliXxXxX/HeliXxXxX/output/snake-dark.svg" width="100%" alt="snake"/>
+
+</div>
 
 </div>
 
@@ -71,12 +76,7 @@ When I am not studying for physics and math exams or soldering components, I am 
 
 ## ✦ Contribution Grimoire
 
-<div align="center">
 
-<!-- Snake animation. Requires the GitHub Action set up (see setup notes). -->
-<img src="https://raw.githubusercontent.com/HeliXxXxX/HeliXxXxX/output/snake-dark.svg" width="100%" alt="snake"/>
-
-</div>
 
 <!-- divider -->
 <img src="./assets/divider.svg" width="100%" alt="─"/>
