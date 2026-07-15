@@ -4,7 +4,7 @@
         SVG BANNER
      ╚═══════════════════════════════════════╝ -->
 
-<img src="./assets/banner.svg" width="100%" alt="banner"/>
+<img src="./assets/banner_red.svg" width="100%" alt="HeliX - my own world"/>
 
 <!-- ╔═══════════════════════════════════════╗
         TYPING ANIMATION
