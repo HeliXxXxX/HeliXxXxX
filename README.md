@@ -12,6 +12,7 @@
 
 <div align="center">
 
+
 <!-- Snake animation. Requires the GitHub Action set up (see setup notes). -->
 <img src="https://raw.githubusercontent.com/HeliXxXxX/HeliXxXxX/output/snake-dark.svg" width="100%" alt="snake"/>
 
