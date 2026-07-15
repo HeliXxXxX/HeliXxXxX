@@ -10,7 +10,7 @@
         TYPING ANIMATION
      ╚═══════════════════════════════════════╝ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=B01818&center=true&vCenter=true&width=600&lines=Mechanical+Engineer+%40+PoliTo;Hardware+Hacker+%26+Maker;Android+App+Developer;I+solve+inconveniences+my+own+way.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F5F5F5&center=true&vCenter=true&width=600&lines=Mechanical+Engineer+%40+PoliTo;Hardware+Hacker+%26+Maker;Android+App+Developer;I+solve+inconveniences+my+own+way.)](https://git.io/typing-svg)
 
 </div>
 
@@ -37,20 +37,20 @@ I am a Mechanical Engineering student at **Politecnico di Torino** with a strong
 
 **Languages**
 
-![C++](https://img.shields.io/badge/C%2B%2B-1A1A1A?style=for-the-badge&logo=cplusplus&logoColor=B01818)
-![Python](https://img.shields.io/badge/Python-1A1A1A?style=for-the-badge&logo=python&logoColor=B01818)
-![Kotlin](https://img.shields.io/badge/Kotlin-1A1A1A?style=for-the-badge&logo=kotlin&logoColor=B01818)
+![C++](https://img.shields.io/badge/C%2B%2B-1A1A1A?style=for-the-badge&logo=cplusplus&logoColor=F5F5F5)
+![Python](https://img.shields.io/badge/Python-1A1A1A?style=for-the-badge&logo=python&logoColor=F5F5F5)
+![Kotlin](https://img.shields.io/badge/Kotlin-1A1A1A?style=for-the-badge&logo=kotlin&logoColor=F5F5F5)
 
 **Mobile & Dev**
 
-![Android Studio](https://img.shields.io/badge/Android%20Studio-1A1A1A?style=for-the-badge&logo=androidstudio&logoColor=B01818)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-1A1A1A?style=for-the-badge&logo=jetpackcompose&logoColor=B01818)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-1A1A1A?style=for-the-badge&logo=androidstudio&logoColor=F5F5F5)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-1A1A1A?style=for-the-badge&logo=jetpackcompose&logoColor=F5F5F5)
 
 **Hardware**
 
-![ESP32](https://img.shields.io/badge/ESP32-1A1A1A?style=for-the-badge&logo=espressif&logoColor=B01818)
-![Arduino](https://img.shields.io/badge/Arduino-1A1A1A?style=for-the-badge&logo=arduino&logoColor=B01818)
-![KiCad](https://img.shields.io/badge/KiCad-1A1A1A?style=for-the-badge&logo=kicad&logoColor=B01818)
+![ESP32](https://img.shields.io/badge/ESP32-1A1A1A?style=for-the-badge&logo=espressif&logoColor=F5F5F5)
+![Arduino](https://img.shields.io/badge/Arduino-1A1A1A?style=for-the-badge&logo=arduino&logoColor=F5F5F5)
+![KiCad](https://img.shields.io/badge/KiCad-1A1A1A?style=for-the-badge&logo=kicad&logoColor=F5F5F5)
 
 > **Microcontrollers:** ESP32 (WROOM, S3, C3), Arduino Uno
 > **Libraries & Hardware:** GxEPD2, LiquidCrystal, I2C/SPI interfaces, custom circuit routing
@@ -87,7 +87,7 @@ I am in the process of launching a dedicated page to showcase my electronics bui
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-1A1A1A?style=for-the-badge&logo=instagram&logoColor=B01818)](https://instagram.com/hiru_04)
+[![Instagram](https://img.shields.io/badge/Instagram-1A1A1A?style=for-the-badge&logo=instagram&logoColor=F5F5F5)](https://instagram.com/hiru_04)
 
 </div>
 
