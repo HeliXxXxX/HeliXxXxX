@@ -15,7 +15,7 @@
 </div>
 
 <!-- divider -->
-<img src="./assets/divider.svg" width="90%" alt="─"/>
+<img src="./assets/divider.svg" width="100%" alt="─"/>
 
 ## ✦ Hi, I'm Hiruna (HeliX)
 
