@@ -1,0 +1,24 @@
+<svg width="1000" height="40" viewBox="0 0 1000 40" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="fadeL" x1="0%" y1="0" x2="100%" y2="0">
+      <stop offset="0%" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#B01818"/>
+    </linearGradient>
+    <linearGradient id="fadeR" x1="0%" y1="0" x2="100%" y2="0">
+      <stop offset="0%" stop-color="#B01818"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="60" y="19" width="400" height="1.4" fill="url(#fadeL)"/>
+  <rect x="540" y="19" width="400" height="1.4" fill="url(#fadeR)"/>
+
+  <!-- center pentagram in circle -->
+  <g transform="translate(500,20)" stroke="#B01818" stroke-width="1.3" fill="none">
+    <circle r="13"/>
+    <polygon points="0,-12 7,10 -11.5,-3.7 11.5,-3.7 -7,10"/>
+  </g>
+
+  <text x="475" y="24" font-size="10" fill="#B01818">✦</text>
+  <text x="518" y="24" font-size="10" fill="#B01818">✦</text>
+</svg>
