@@ -25,16 +25,16 @@
 
 ## ✦ Hi, I'm Hiruna (HeliX)
 
-I am a Mechanical Engineering student at **Politecnico di Torino** with a strong passion for DIY electronics, hardware hacking, and app development. I enjoy solving inconveniences in my own way.
+I am a Mechanical Engineering student at **Politecnico di Torino**. And here is where i share the ideas i have made -->
 
 <!-- divider -->
 <img src="./assets/divider.svg" width="100%" alt="─"/>
 
-## ✦ What I Do
+## ✦ What I Have Done
 
-- **Building Custom Hardware** — I design and build electronics, including ESP32-powered cyberdecks and e-ink displays.
-- **Developing Software** — I write firmware and scripts, mostly in C++ and Python.
-- **Current Main Project** — Developing **ChessWidget**, an app that puts a chess board widget on your home screen so you can play daily games straight from it.
+- **Eletronics** — ESP32 powered Ebook Reader with a custom pcb Eink display and case coming soon.
+- **Python** — Python Codes I have done in my mecchanical course which I found very intresting.
+- **Apps** — ADHD Chess, Second Brain.
 
 <!-- divider -->
 <img src="./assets/divider.svg" width="100%" alt="─"/>
@@ -66,21 +66,17 @@ I am a Mechanical Engineering student at **Politecnico di Torino** with a strong
 
 ## ✦ Beyond the Breadboard
 
-When I am not studying for physics and math exams or soldering components, I am usually:
-
-- Playing Minecraft or grinding matches in Brawl Stars
-- Cooking up new recipes, especially pasta dishes, beef meals, or baking chocolate cake
-- Working out with bodyweight exercises and pushups
+# Gaming
+Valorant - Brawl Stars - CODM
 
 <!-- divider -->
 <img src="./assets/divider.svg" width="100%" alt="─"/>
+
 
 ## ✦ Contribution Grimoire
-
-
-
 <!-- divider -->
 <img src="./assets/divider.svg" width="100%" alt="─"/>
+
 
 ## ✦ Let's Connect
 
