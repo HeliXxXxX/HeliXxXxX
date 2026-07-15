@@ -66,7 +66,7 @@ I am a Mechanical Engineering student at **Politecnico di Torino**. And here is 
 
 ## ✦ Beyond the Breadboard
 
-# Gaming
+Gaming
 Valorant - Brawl Stars - CODM
 
 <!-- divider -->
