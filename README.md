@@ -32,7 +32,7 @@ I am a Mechanical Engineering student at **Politecnico di Torino**. And here is 
 
 ## ✦ What I Have Done
 
-- **Eletronics** — ESP32 powered Ebook Reader with a custom pcb Eink display and case coming soon.
+- **Eletronics** — ESP32 powered Ebook Reader.
 - **Python** — Python Codes I did in my mecchanical course.
 - **Apps** — Passant, Second Brain.
 
