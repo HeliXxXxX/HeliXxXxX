@@ -33,8 +33,8 @@ I am a Mechanical Engineering student at **Politecnico di Torino**. And here is 
 ## ✦ What I Have Done
 
 - **Eletronics** — ESP32 powered Ebook Reader with a custom pcb Eink display and case coming soon.
-- **Python** — Python Codes I have done in my mecchanical course which I found very intresting.
-- **Apps** — ADHD Chess, Second Brain.
+- **Python** — Python Codes I did in my mecchanical course.
+- **Apps** — Passant, Second Brain.
 
 <!-- divider -->
 <img src="./assets/divider.svg" width="100%" alt="─"/>
@@ -77,10 +77,6 @@ Valorant - Brawl Stars - CODM
 <!-- divider -->
 <img src="./assets/divider.svg" width="100%" alt="─"/>
 
-
-## ✦ Let's Connect
-
-I am in the process of launching a dedicated page to showcase my electronics builds, tutorials, and app previews. If you are interested in hardware sponsorships, collaborations, or just want to talk, feel free to check out my repositories or reach out.
 
 <div align="center">
 
