@@ -72,10 +72,6 @@ Valorant - Brawl Stars - CODM
 <!-- divider -->
 <img src="./assets/divider.svg" width="100%" alt="─"/>
 
-<!-- divider -->
-<img src="./assets/divider.svg" width="100%" alt="─"/>
-
-
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-1A1A1A?style=for-the-badge&logo=instagram&logoColor=F5F5F5)](https://instagram.com/hiru_04)
